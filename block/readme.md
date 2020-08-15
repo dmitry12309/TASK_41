@@ -14,7 +14,7 @@ LICENSE: [MIT](./license/md)
 [2. Как работать с Git](./block/block1.2.md)
 
 
-#### 3. Подготовка Git
+3. Подготовка Git
 
 [3.1   Установка Git](./block/block2.md) 
 
