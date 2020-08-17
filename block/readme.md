@@ -8,7 +8,7 @@ LICENSE: [MIT](./license/md)
 
 ### **Содержание**
 
-[1. Что такое Git и зачем он мне?](./block/block1.1.md)
+[1. Что такое Git и зачем он мне?](/block/block1.1.md)
 
 
 [2. Как работать с Git](/block/block1.2.md)
