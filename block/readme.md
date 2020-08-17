@@ -11,12 +11,12 @@ LICENSE: [MIT](./license/md)
 [1. Что такое Git и зачем он мне?](./block/block1.1.md)
 
 
-[2. Как работать с Git](./block/block1.2.md)
+[2. Как работать с Git](/block/block1.2.md)
 
 
 3. Подготовка Git
 
-[3.1   Установка Git](./block/block2.md) 
+[3.1   Установка Git](/block/block2.md) 
 
 [3.2. Настройка конфигурационного файла](./block/block4.md)
 

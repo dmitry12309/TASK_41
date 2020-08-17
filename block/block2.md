@@ -8,6 +8,6 @@
 
 [*Далее>>*](/block/block4.md)
 
-[*<<Вернуться*](/block/block1.md)
+[*<<Вернуться*](/block/block1.2.md)
 
 [*<<< На главную*](./readme.md)
